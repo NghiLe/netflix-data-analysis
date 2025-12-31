@@ -60,3 +60,12 @@ The dataset contains information such as:
 
 ## Notes
 This project focuses on data exploration and visualization rather than advanced modeling or machine learning.
+
+
+
+## Key Insights
+- Netflix content increased rapidly starting around 2015, with a peak in releases around 2019.
+- Movies make up a larger portion of Netflix’s catalog compared to TV Shows.
+- TV Shows tend to have more recent release years, while Movies show a wider range of release years, including older titles.
+- Several columns such as director and cast contain missing values, which is common in real-world datasets.
+
